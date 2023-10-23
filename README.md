@@ -28,6 +28,7 @@ Get ClientID, Client Secret from there (we'll need those later).
 
 # Required Libs 
 > pip install nicegui
+
 > pip install Zenora
 
 [Zenora Discord REST API in Python ](https://github.com/ahnaf-zamil/zenora#zenora) (Read More) 
