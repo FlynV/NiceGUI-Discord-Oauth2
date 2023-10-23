@@ -1,7 +1,7 @@
-# Discord Oauth2 with NiceGUI
-### Log in and out using Discord Oauth2 (Zenora) and NiceGUI. 
+# Discord Oauth2 with [NiceGUI](https://github.com/zauberzeug/nicegui)
+### Log in and out using Discord Oauth2 ([Zenora](https://github.com/ahnaf-zamil/zenora)) and [NiceGUI](https://github.com/zauberzeug/nicegui). 
 
-A simple  **Discord Login** using **NiceGUI** and **Zenora**. 
+A simple  **Discord Login** using ** [NiceGUI](https://github.com/zauberzeug/nicegui)** and **[Zenora](https://github.com/ahnaf-zamil/zenora)**. 
 <p align="center">
   <img src="https://styles.redditmedia.com/t5_7sogo1/styles/communityIcon_7ms8p9yd6eda1.png" />
 </p>
