@@ -15,13 +15,13 @@ Get ClientID, Client Secret from there (we'll need those later).
 - Set Redirects to http://localhost:8000/oauth/callback (8000 port for Native, 8080 for Web) 
 - Set the default auth link to the redirect we've just created. 
 <p align="center">
-  <img src="https://i.imgur.com/bcqOU5h.png" />
+  <img src="https://i.imgur.com/s1h9fq1.png" />
 </p>
 
 - Now head to URL Generator under OAuth2 tab. Select the scopes that your web/standalone application needs.
 - Select the Redirect Link as the one we've set before. 
 <p align="center">
-  <img src="https://i.imgur.com/Gt7g2ct.png" />
+  <img src="https://i.imgur.com/t3WYLRd.png" />
 </p>
 
 - Copy the Generated URL, we'll need this later as well. 
