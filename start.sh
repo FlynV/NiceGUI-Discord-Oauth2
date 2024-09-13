@@ -1,0 +1,1 @@
+./env/bin/python3 ./auth.py
