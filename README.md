@@ -25,30 +25,9 @@ Get ClientID, Client Secret from there (we'll need those later).
 </p>
 
 - Copy the Generated URL, we'll need this later as well. 
-
-# Required Libs 
-> pip install nicegui
-
-> pip install Zenora
-
 [Zenora Discord REST API in Python ](https://github.com/ahnaf-zamil/zenora#zenora) (Read More) 
 
-# Configuring Login (CONFIG PY)
-- Open the config (CONFIG PY file):
-- TOKEN : Discord Bot Token
-- CLIENT_SECRET: Discord App Token 
-- REDIRECT_URL: The one we set in Discord Dev Portal (Remember 8000 Port for Native, 8080 for Web) 
-- OAUTH_URL: From the 0Auth2 URL Generator
-
-# Run App (AUTH PY)
-### If all set right, we'll have a proper Login!
-<p align="center">
-  <img src="https://i.imgur.com/C3Theco.png" />
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/lhy19X9.png" />
-</p>
-<p align="center">
-  <img src="https://i.imgur.com/qLtRlt9.png" />
-</p>
-
+# Configuring the Application
+- Clone the repository.
+- Create the virtual env and install the requirements with `make`
+- Run the application with `make start`
